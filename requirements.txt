@@ -1,6 +1,5 @@
- streamlit
+streamlit
 polars
 plotly
-pandas
+fastexcel
 openpyxl
-xlsxwriter
